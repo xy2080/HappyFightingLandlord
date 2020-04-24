@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <m_playerIntegration>1400</m_playerIntegration>
+  <m_computerRightIntegration>1300</m_computerRightIntegration>
+  <m_computerLeftIntegration>1600</m_computerLeftIntegration>
+</GameData>
